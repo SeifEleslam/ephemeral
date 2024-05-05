@@ -23,10 +23,6 @@ export class PatchUserDto {
   @IsOptional()
   email?: string;
 
-  @IsNotEmpty()
-  @IsOptional()
-  password?: string;
-
   @MinLength(3)
   @MaxLength(20)
   @IsOptional()

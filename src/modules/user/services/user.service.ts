@@ -41,7 +41,6 @@ export class UserService {
       where: { id: 1 }, // TODO: remove hardcoded ID when auth
       data: {
         email: user.email,
-        password: user.password,
         username: user.username,
       },
     });
