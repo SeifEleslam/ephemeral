@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Ephemeral: Real-Time Communication Made Fleeting
+
+Ephemeral is a real-time communication platform designed for fostering spontaneous connections through temporary, disappearing messages. Imagine a space where conversations are focused on the present moment, vanishing after a set time. This project is a collaborative effort, combining the power of NestJS for a robust backend and React for a user-friendly frontend.
 
 ## Installation
 
